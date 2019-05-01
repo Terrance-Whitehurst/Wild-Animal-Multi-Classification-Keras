@@ -8,6 +8,8 @@ The training set contains 196,157 images from 138 different locations in Souther
 
 The test set contains 153,730 images from 100 locations in Idaho.
 
+![](images/__results___13_2.png)
+
 # Used In This Project
 
 1) Keras
@@ -19,3 +21,5 @@ The test set contains 153,730 images from 100 locations in Idaho.
 4) F1 Score
 
 5) Keras Callbacks
+
+![](images/model_plot.png)
