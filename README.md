@@ -1,5 +1,5 @@
 # Project Overview: iWildCam 2019 - FGVC6
-In this project I use Keras and TensorFlow to do multi classification for wild animal images. I use Kaggles free GPUs and Datasets in this competion.
+In this project I use Keras and TensorFlow to do multi classification for wild animal images. I use Kaggles free GPUs and Datasets in this competion. I use the Keras deep learning library along with data augmentation.
 
 # The Data
 https://www.kaggle.com/c/iwildcam-2019-fgvc6
